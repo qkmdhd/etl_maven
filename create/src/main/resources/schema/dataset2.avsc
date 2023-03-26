@@ -1,0 +1,1 @@
+{"type":"record","name":"dataset2","fields":[{"name":"key_field2","type":"string"},{"name":"timestamp_field2","type":"long"},{"name":"string_field2","type":"string"},{"name":"integer_field2","type":"int"}]}
